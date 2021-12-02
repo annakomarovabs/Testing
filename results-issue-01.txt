@@ -1,0 +1,21 @@
+**********************************************************************
+File "/Users/anna-komarovabs/PycharmProjects/AAA/morse.py", line 43, in __main__.encode
+Failed example:
+    encode('Привет, Мир')
+Exception raised:
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/doctest.py", line 1336, in __run
+        exec(compile(example.source, filename, "single",
+      File "<doctest __main__.encode[5]>", line 1, in <module>
+        encode('Привет, Мир')
+      File "/Users/anna-komarovabs/PycharmProjects/AAA/morse.py", line 45, in encode
+        encoded_signs = [
+      File "/Users/anna-komarovabs/PycharmProjects/AAA/morse.py", line 46, in <listcomp>
+        LETTER_TO_MORSE[letter] for letter in message
+    KeyError: 'П'
+**********************************************************************
+1 items had failures:
+   1 of   6 in __main__.encode
+***Test Failed*** 1 failures.
+
+Process finished with exit code 0
