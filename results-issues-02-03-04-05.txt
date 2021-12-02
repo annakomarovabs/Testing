@@ -1,0 +1,11 @@
+(venv) anna-komarovabs@MacBook-Air AAA % python -m pytest
+============================================================================= test session starts =============================================================================
+platform darwin -- Python 3.8.5, pytest-6.2.5, py-1.11.0, pluggy-1.0.0
+rootdir: /Users/anna-komarovabs/PycharmProjects/AAA
+collected 14 items                                                                                                                                                            
+
+test_issue02.py ...                                                                                                                                                     [ 21%]
+test_issue03.py .....                                                                                                                                                   [ 57%]
+test_issue04.py .....                                                                                                                                                   [ 92%]
+test_issue05.py F                                                                                                                                                       [100%]
+
