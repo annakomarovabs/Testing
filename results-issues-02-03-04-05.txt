@@ -7,5 +7,5 @@ collected 14 items
 test_issue02.py ...                                                                                                                                                     [ 21%]
 test_issue03.py .....                                                                                                                                                   [ 57%]
 test_issue04.py .....                                                                                                                                                   [ 92%]
-test_issue05.py F                                                                                                                                                       [100%]
+test_issue05.py .                                                                                                                                                       [100%]
 
